@@ -1,4 +1,4 @@
-# try add commit
+# try add commit pull
 import game
 
 if __name__ == '__main__':
